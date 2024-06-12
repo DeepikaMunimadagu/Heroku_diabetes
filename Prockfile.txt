@@ -1,0 +1,1 @@
+web: sh setup.sh && stramlit run Diabetes_prediction_webapp.py
